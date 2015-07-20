@@ -1,0 +1,12 @@
+{
+	"name" : "Inventory Cleaner",
+	"description" : "Gets rid of all the stupid !s"
+	"author" : "John Cosgrove",
+	"contact" : "kobyov@gmail.com",
+	"version" : "0.1",
+	"hooks" : [
+		{ 	"hook_id" : "lib/managers/menumanager",
+			"script_path" : "clean_inventory.lua"
+		}
+	]
+}

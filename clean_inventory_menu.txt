@@ -1,0 +1,17 @@
+{
+	"menu_id" : "clean_inventory_menu",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "my_custom_menu",
+	"description" : "my_custom_menu_desc",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "json_menu_button",
+			"title" : "json_item_button",
+			"description" : "json_item_button_desc",
+			"callback" : "callback_clean_button",
+			"back_callback" : "callback_clean_button_back",
+		}
+	]
+
+}

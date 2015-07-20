@@ -1,0 +1,6 @@
+{
+	"my_custom_menu" : "Inventory Cleaner",
+	"my_custom_menu_desc" : "Clean inventories for dirty heisting",
+	"json_item_button" : "Clean your Inventory",
+	"json_item_button_desc" : "HULK SMASH PUNY !S",
+}
